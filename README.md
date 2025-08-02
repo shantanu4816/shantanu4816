@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Lande</h1>
-<h3 align="center">A passionate Electrical Engineer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu4816&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu4816" /> </p>
 
